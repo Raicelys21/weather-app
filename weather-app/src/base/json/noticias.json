@@ -1,61 +1,249 @@
 {
-    "noticias": [
-      {
-        "id": 1,
-        "titulo": "Noticia 1",
-        "descripcion": "Descripción de la Noticia 1.",
-        "fuente": "Fuente 1",
-        "categoria": "Tecnología"
-      },
-      {
-        "id": 2,
-        "titulo": "Noticia 2",
-        "descripcion": "Descripción de la Noticia 2.",
-        "fuente": "Fuente 2",
-        "categoria": "Deportes"
-      },
-      {
-        "id": 3,
-        "titulo": "Noticia 1",
-        "descripcion": "Descripción de la Noticia 1.",
-        "fuente": "Fuente 1",
-        "categoria": "Tecnología"
-      },
-      {
-        "id": 4,
-        "titulo": "Noticia 2",
-        "descripcion": "Descripción de la Noticia 2.",
-        "fuente": "Fuente 2",
-        "categoria": "Deportes"
-      },
-      {
-        "id": 5,
-        "titulo": "Noticia 1",
-        "descripcion": "Descripción de la Noticia 1.",
-        "fuente": "Fuente 1",
-        "categoria": "Tecnología"
-      },
-      {
-        "id": 6,
-        "titulo": "Noticia 2",
-        "descripcion": "Descripción de la Noticia 2.",
-        "fuente": "Fuente 2",
-        "categoria": "Deportes"
-      },
-      {
-        "id": 7,
-        "titulo": "Noticia 1",
-        "descripcion": "Descripción de la Noticia 1.",
-        "fuente": "Fuente 1",
-        "categoria": "Arte"
-      },
-      {
-        "id": 8,
-        "titulo": "Noticia 2",
-        "descripcion": "Descripción de la Noticia 2.",
-        "fuente": "Fuente 2",
-        "categoria": "Belleza"
-      }
-    ]
-  }
-  
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Increíble Avance en Inteligencia Artificial",
+      "descripcion": "Se ha logrado un avance revolucionario en el campo de la inteligencia artificial que cambiará la forma en que interactuamos con la tecnología.",
+      "fuente": "TechInnovate",
+      "categoria": "Tecnología"
+    },
+    {
+      "id": 2,
+      "titulo": "Equipo Local Gana el Campeonato Nacional",
+      "descripcion": "El equipo local de fútbol logra una victoria impresionante en el campeonato nacional, demostrando su dominio en el campo.",
+      "fuente": "SportsWeekly",
+      "categoria": "Deportes"
+    },
+    {
+      "id": 3,
+      "titulo": "Nuevo Descubrimiento en el Mundo de la Tecnología",
+      "descripcion": "Un equipo de científicos ha realizado un descubrimiento sorprendente que podría cambiar la forma en que usamos la tecnología en nuestra vida cotidiana.",
+      "fuente": "TechExploration",
+      "categoria": "Tecnología"
+    },
+    {
+      "id": 4,
+      "titulo": "Atleta Destacado Rompe Récord Mundial",
+      "descripcion": "Un atleta destacado logra romper un récord mundial en su disciplina, dejando a todos asombrados con su rendimiento excepcional.",
+      "fuente": "SportsAchievements",
+      "categoria": "Deportes"
+    },
+    {
+      "id": 5,
+      "titulo": "Nueva Innovación en Dispositivos Móviles",
+      "descripcion": "Una nueva innovación en dispositivos móviles promete cambiar la forma en que interactuamos con nuestros teléfonos y tabletas.",
+      "fuente": "MobileTechMag",
+      "categoria": "Tecnología"
+    },
+    {
+      "id": 6,
+      "titulo": "Éxito Internacional para Artista Local",
+      "descripcion": "Un artista local logra el reconocimiento internacional por su talento excepcional, llevando el arte local a nuevas alturas.",
+      "fuente": "ArtWorldNews",
+      "categoria": "Arte"
+    },
+    {
+      "id": 7,
+      "titulo": "Últimas Tendencias en Belleza",
+      "descripcion": "Descubre las últimas tendencias y consejos de belleza que están marcando pauta en la industria del cuidado personal.",
+      "fuente": "BeautyTrendsMag",
+      "categoria": "Belleza"
+    },
+    {
+      "id": 8,
+      "titulo": "Innovadoras Recetas de Cocina",
+      "descripcion": "Explora nuevas y deliciosas recetas de cocina que te inspirarán a probar algo diferente en la cocina.",
+      "fuente": "CuisineInnovate",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 9,
+      "titulo": "Impacto de las Redes Sociales en la Sociedad",
+      "descripcion": "Un análisis profundo sobre cómo las redes sociales están afectando nuestra sociedad y cambiando la forma en que nos comunicamos.",
+      "fuente": "SocialImpactReview",
+      "categoria": "Redes sociales"
+    },
+    {
+      "id": 10,
+      "titulo": "Nuevas Tendencias en Moda",
+      "descripcion": "Descubre las últimas tendencias de moda que están dominando las pasarelas y definiendo el estilo actual.",
+      "fuente": "FashionTrendWatch",
+      "categoria": "Moda"
+    },
+    {
+      "id": 11,
+      "titulo": "Nuevo Software Revoluciona la Industria",
+      "descripcion": "Un innovador software promete cambiar la forma en que las empresas gestionan sus operaciones diarias.",
+      "fuente": "TechInnovate",
+      "categoria": "Tecnología"
+    },
+    {
+      "id": 12,
+      "titulo": "Equipo de Baloncesto Local Gana el Torneo Regional",
+      "descripcion": "El equipo de baloncesto local logra una victoria impresionante en el torneo regional, destacando su habilidad y trabajo en equipo.",
+      "fuente": "SportsHighlight",
+      "categoria": "Deportes"
+    },
+    {
+      "id": 13,
+      "titulo": "Descubrimiento Científico Revela Nuevas Posibilidades",
+      "descripcion": "Científicos hacen un descubrimiento que podría tener amplias implicaciones en la medicina y la investigación espacial.",
+      "fuente": "ScientificBreakthrough",
+      "categoria": "Tecnología"
+    },
+    {
+      "id": 14,
+      "titulo": "Atleta Destacado Recibe Premio Internacional",
+      "descripcion": "Un atleta destacado recibe reconocimiento internacional por sus logros sobresalientes en su disciplina deportiva.",
+      "fuente": "SportsAchievements",
+      "categoria": "Deportes"
+    },
+    {
+      "id": 15,
+      "titulo": "Lanzamiento de Nuevo Dispositivo Móvil",
+      "descripcion": "Una empresa tecnológica presenta su último dispositivo móvil, prometiendo características innovadoras y un rendimiento excepcional.",
+      "fuente": "MobileTechLaunch",
+      "categoria": "Tecnología"
+    },
+    {
+      "id": 16,
+      "titulo": "Mujer Pintora Rompe Barreras en el Mundo del Arte",
+      "descripcion": "Una talentosa mujer pintora está desafiando estereotipos y ganando reconocimiento en la escena artística internacional.",
+      "fuente": "ArtisticEmpower",
+      "categoria": "Arte"
+    },
+    {
+      "id": 17,
+      "titulo": "Descubrimientos Culinarios en la Cocina Internacional",
+      "descripcion": "Explora los sabores exquisitos y descubre nuevas delicias en la cocina internacional con estos emocionantes descubrimientos culinarios.",
+      "fuente": "GlobalCuisineDiscoveries",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 18,
+      "titulo": "Innovaciones Educativas en la Era Digital",
+      "descripcion": "Las tecnologías digitales están transformando la educación, con nuevas herramientas y enfoques que revolucionan la forma en que aprendemos.",
+      "fuente": "DigitalEducationInnovate",
+      "categoria": "Educación"
+    },
+    {
+      "id": 19,
+      "titulo": "Redes Sociales y su Impacto en el Activismo Político",
+      "descripcion": "Analizamos cómo las redes sociales están siendo utilizadas como herramientas poderosas en el activismo político y el cambio social.",
+      "fuente": "PoliticalActivismInsight",
+      "categoria": "Política"
+    },
+    {
+      "id": 20,
+      "titulo": "Avances en Ciencia de la Belleza: Nuevos Tratamientos",
+      "descripcion": "Explora los últimos avances científicos en la industria de la belleza, con tratamientos innovadores que están revolucionando los cuidados de la piel.",
+      "fuente": "BeautyScienceAdvancements",
+      "categoria": "Belleza"
+    },
+    {
+      "id": 21,
+      "titulo": "Deportes Extremos: Desafíos y Logros Asombrosos",
+      "descripcion": "Adéntrate en el emocionante mundo de los deportes extremos y descubre los desafíos y logros asombrosos de los atletas extremos.",
+      "fuente": "ExtremeSportsAdventure",
+      "categoria": "Deportes"
+    },
+    {
+      "id": 22,
+      "titulo": "Moda Sostenible: Tendencias con Impacto Ambiental",
+      "descripcion": "Conoce las últimas tendencias en moda sostenible y cómo la industria está abordando los problemas ambientales con diseños innovadores.",
+      "fuente": "SustainableFashionTrends",
+      "categoria": "Moda"
+    },
+    {
+      "id": 23,
+      "titulo": "Influencia de las Redes Sociales en la Educación",
+      "descripcion": "Explora cómo las redes sociales están impactando la educación, desde el aprendizaje en línea hasta la colaboración entre estudiantes.",
+      "fuente": "SocialMediaEducationInfluence",
+      "categoria": "Educación"
+    },
+    {
+      "id": 24,
+      "titulo": "Arte Urbano: Expresiones Creativas en Espacios Urbanos",
+      "descripcion": "Descubre cómo los artistas urbanos están transformando entornos urbanos con expresiones creativas que desafían las convenciones.",
+      "fuente": "UrbanArtExpressions",
+      "categoria": "Arte"
+    },
+    {
+      "id": 25,
+      "titulo": "Desfile de Moda: Diseñadores Emergentes en el Escenario Internacional",
+      "descripcion": "Conoce a los diseñadores emergentes que están dejando su huella en el mundo de la moda a nivel internacional con sus innovadores diseños.",
+      "fuente": "EmergingFashionDesigners",
+      "categoria": "Moda"
+    },
+    {
+      "id": 26,
+      "titulo": "Artista Local Expone en Galería Internacional",
+      "descripcion": "Un talentoso artista local tiene la oportunidad de exhibir su obra en una prestigiosa galería de arte internacional.",
+      "fuente": "ArtWorldNews",
+      "categoria": "Arte"
+    },
+    {
+      "id": 27,
+      "titulo": "Secretos de Belleza de Celebridades Revelados",
+      "descripcion": "Descubre los secretos de belleza de las celebridades y cómo puedes incorporarlos en tu rutina diaria.",
+      "fuente": "CelebrityBeautySecrets",
+      "categoria": "Belleza"
+    },
+    {
+      "id": 28,
+      "titulo": "Recetas Exclusivas de Chef Reconocido",
+      "descripcion": "Un chef reconocido comparte recetas exclusivas que puedes preparar en casa para impresionar a tus invitados.",
+      "fuente": "GourmetCuisine",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 29,
+      "titulo": "Impacto de las Redes Sociales en la Política",
+      "descripcion": "Un análisis sobre cómo las redes sociales están influyendo en la política y la participación ciudadana.",
+      "fuente": "PoliticalSocialImpact",
+      "categoria": "Política"
+    },
+    {
+      "id": 30,
+      "titulo": "Tendencias de Moda para la Temporada",
+      "descripcion": "Descubre las últimas tendencias de moda que marcarán la pauta en la temporada actual.",
+      "fuente": "FashionTrendWatch",
+      "categoria": "Moda"
+    },
+    {
+      "id": 31,
+      "titulo": "Innovaciones Educativas para el Siglo XXI",
+      "descripcion": "Explora las últimas innovaciones en educación que están transformando la forma en que aprendemos y enseñamos.",
+      "fuente": "EducationInnovations",
+      "categoria": "Educación"
+    },
+    {
+      "id": 32,
+      "titulo": "Cocina Creativa: Fusionando Sabores del Mundo",
+      "descripcion": "Descubre cómo chefs creativos están fusionando sabores de diferentes culturas para crear experiencias gastronómicas únicas.",
+      "fuente": "CreativeCuisineWorld",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 33,
+      "titulo": "Nuevas Tendencias en Redes Sociales",
+      "descripcion": "Explora las últimas tendencias en plataformas de redes sociales y cómo están impactando la comunicación digital.",
+      "fuente": "SocialMediaTrends",
+      "categoria": "Redes sociales"
+    },
+    {
+      "id": 34,
+      "titulo": "Innovación en Arte Digital",
+      "descripcion": "Artistas digitales están llevando el arte a nuevas alturas con innovadoras técnicas y expresiones en el mundo digital.",
+      "fuente": "DigitalArtInnovation",
+      "categoria": "Arte"
+    },
+    {
+      "id": 35,
+      "titulo": "Avances en Medicina: Curas Prometedoras",
+      "descripcion": "Descubre los últimos avances en medicina que ofrecen esperanzas de curas para enfermedades hasta ahora consideradas incurables.",
+      "fuente": "MedicalAdvancements",
+      "categoria": "Tecnología"
+    }
+  ]
+}

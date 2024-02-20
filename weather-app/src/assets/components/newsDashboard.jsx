@@ -101,7 +101,6 @@ export default function NewsDashboard() {
         <option value="Deportes">Deportes</option>
         <option value="Belleza">Belleza</option>
         <option value="Cocina">Cocina</option>
-        <option value="Manualidades">Manualidades</option>
         <option value="Redes sociales">Redes sociales</option>
         <option value="Política">Política</option>
         <option value="Moda">Moda</option>
@@ -149,10 +148,7 @@ export default function NewsDashboard() {
             </div>
             <h4>{noticia.titulo}</h4>
             <p>{noticia.descripcion}</p>
-            <p>
-              {" "}
-              <strong>Autor:</strong> {noticia.fuente}
-            </p>
+           
             <p>
               {" "}
               <strong>Fuente:</strong> {noticia.fuente}
@@ -189,10 +185,7 @@ export default function NewsDashboard() {
           <div key={favorita.id} className="card">
             <h4>{favorita.titulo}</h4>
             <p>{favorita.descripcion}</p>
-            <p>
-              {" "}
-              <strong>Autor:</strong> {favorita.fuente}
-            </p>
+            
             <p>
               {" "}
               <strong>Fuente:</strong> {favorita.fuente}
