@@ -1,0 +1,61 @@
+{
+    "noticias": [
+      {
+        "id": 1,
+        "titulo": "Noticia 1",
+        "descripcion": "Descripción de la Noticia 1.",
+        "fuente": "Fuente 1",
+        "categoria": "Tecnología"
+      },
+      {
+        "id": 2,
+        "titulo": "Noticia 2",
+        "descripcion": "Descripción de la Noticia 2.",
+        "fuente": "Fuente 2",
+        "categoria": "Deportes"
+      },
+      {
+        "id": 3,
+        "titulo": "Noticia 1",
+        "descripcion": "Descripción de la Noticia 1.",
+        "fuente": "Fuente 1",
+        "categoria": "Tecnología"
+      },
+      {
+        "id": 4,
+        "titulo": "Noticia 2",
+        "descripcion": "Descripción de la Noticia 2.",
+        "fuente": "Fuente 2",
+        "categoria": "Deportes"
+      },
+      {
+        "id": 5,
+        "titulo": "Noticia 1",
+        "descripcion": "Descripción de la Noticia 1.",
+        "fuente": "Fuente 1",
+        "categoria": "Tecnología"
+      },
+      {
+        "id": 6,
+        "titulo": "Noticia 2",
+        "descripcion": "Descripción de la Noticia 2.",
+        "fuente": "Fuente 2",
+        "categoria": "Deportes"
+      },
+      {
+        "id": 7,
+        "titulo": "Noticia 1",
+        "descripcion": "Descripción de la Noticia 1.",
+        "fuente": "Fuente 1",
+        "categoria": "Arte"
+      },
+      {
+        "id": 8,
+        "titulo": "Noticia 2",
+        "descripcion": "Descripción de la Noticia 2.",
+        "fuente": "Fuente 2",
+        "categoria": "Belleza"
+      }
+    ]
+  }
+  
